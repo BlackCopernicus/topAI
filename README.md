@@ -1,5 +1,5 @@
 # topAI
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15345660.svg)](https://doi.org/10.5281/zenodo.15345660)
 **topAI** is a new AI architecture built to preserve systemic stability while optimizing for performance and cost. Unlike traditional statistical models that degrade under recursive feedback or chaotic data perturbation, topAI integrates structural constraints and totemic anchors to ensure stable, interpretable behavior—especially in complex, real-world systems.
 
 ## Core Concepts
